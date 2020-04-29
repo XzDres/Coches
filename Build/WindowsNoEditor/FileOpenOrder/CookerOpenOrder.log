@@ -1,0 +1,624 @@
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Basic_Wall.uasset" 0
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Pillar_50x500.uasset" 1
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_400x300.uasset" 2
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_400x400.uasset" 3
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_500x500.uasset" 4
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" 5
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" 6
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Collapse01.uasset" 7
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Collapse02.uasset" 8
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Explosion01.uasset" 9
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Explosion02.uasset" 10
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Fire01.uasset" 11
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Fire_Sparks01.uasset" 12
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Light01.uasset" 13
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Light01_Cue.uasset" 14
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Light02.uasset" 15
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Light02_Cue.uasset" 16
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Smoke01.uasset" 17
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Starter_Birds01.uasset" 18
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Starter_Music01.uasset" 19
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Starter_Wind05.uasset" 20
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Starter_Wind06.uasset" 21
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Steam01.uasset" 22
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Explosion_Cue.uasset" 23
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Burst_M.uasset" 24
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_Burst.uasset" 25
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" 26
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" 27
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/m_flare_01.uasset" 28
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradient.uasset" 29
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" 30
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" 31
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" 32
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" 33
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/P_Explosion.uasset" 34
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" 35
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/T_ColorGrid.uasset" 36
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" 37
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Bush_D.uasset" 38
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Bush_N.uasset" 39
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Bush.uasset" 40
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Bush.uasset" 41
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Chair_M.uasset" 42
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Chair_N.uasset" 43
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Chair.uasset" 44
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Couch.uasset" 45
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Glass.uasset" 46
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Door_M.uasset" 47
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Door_N.uasset" 48
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Door.uasset" 49
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Door.uasset" 50
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" 51
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" 52
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" 53
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.uasset" 54
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" 55
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" 56
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_RockMesh_M.uasset" 57
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_RockMesh_N.uasset" 58
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Rock.uasset" 59
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Rock.uasset" 60
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Shelf_M.uasset" 61
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Shelf_N.uasset" 62
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Shelf.uasset" 63
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Shelf.uasset" 64
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Basic_Floor.uasset" 65
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Stairs.uasset" 66
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Cone.uasset" 67
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Cylinder.uasset" 68
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" 69
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Pipe.uasset" 70
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" 71
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" 72
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Plane.uasset" 73
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Torus.uasset" 74
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Trim.uasset" 75
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" 76
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" 77
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" 78
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Tube.uasset" 79
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" 80
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" 81
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" 82
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.uasset" 83
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_M.uasset" 84
+"../../../Engine/Content/EngineMaterials/T_Default_Material_Grid_N.uasset" 85
+"../../../Engine/Content/EngineMaterials/WorldGridMaterial.uasset" 86
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Plane.uasset" 87
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Skeletons/SK_Vehicle_Skeleton.uasset" 88
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/BoxTruck/AB_BoxTruck.uasset" 89
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/BoxTruck/DA_BT_TireConfig.uasset" 90
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_FrontTire.uasset" 91
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/BoxTruck/BP_BT_RearTire.uasset" 92
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/BoxTruck/TX_Truck_Exterior_Diffuse.uasset" 93
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/BoxTruck/TX_Truck_Exterior_EMM.uasset" 94
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/BoxTruck/TX_Truck_Exterior_Normal.uasset" 95
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/BoxTruck/TX_Truck_Exterior_ORM.uasset" 96
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Body.uasset" 97
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/BoxTruck/TX_Truck_Box_Diffuse.uasset" 98
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/BoxTruck/TX_Truck_Box_Normal.uasset" 99
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/BoxTruck/TX_Truck_Box_ORM.uasset" 100
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Box.uasset" 101
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/BoxTruck/TX_Truck_Chassis_Diffuse.uasset" 102
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/BoxTruck/TX_Truck_Chassis_EMM.uasset" 103
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/BoxTruck/TX_Truck_Chassis_Normal.uasset" 104
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/BoxTruck/TX_Truck_Chassis_ORM.uasset" 105
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Chassis.uasset" 106
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/BoxTruck/TX_Truck_Interior_Diffuse.uasset" 107
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/BoxTruck/TX_Truck_Interior_Normal.uasset" 108
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/BoxTruck/TX_Truck_Interior_ORM.uasset" 109
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Materials/BoxTruck/M_BoxTruck_Interior.uasset" 110
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Diffuse_2.uasset" 111
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Normal_2.uasset" 112
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_OPC_2.uasset" 113
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_ORM.uasset" 114
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Materials/Masters/M_Glass.uasset" 115
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/BoxTruck/TX_Truck_Glass_Diffuse.uasset" 116
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/BoxTruck/TX_Truck_Glass_Normal.uasset" 117
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/BoxTruck/TX_Truck_Glass_OPC.uasset" 118
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/BoxTruck/TX_Truck_Glass_ORM.uasset" 119
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Materials/BoxTruck/Mi_BoxTruck_Glass.uasset" 120
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Skeletons/SK_Truck_Box_PhysicsAsset.uasset" 121
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Skeletons/SK_Truck_Box.uasset" 122
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck.uasset" 123
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/BoxTruck/BP_BoxTruck_Gamemode.uasset" 124
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/Hatchback/DA_HB_TireConfig.uasset" 125
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/Pickup/AB_Pickup.uasset" 126
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/Pickup/DA_PU_TireConfig.uasset" 127
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Front.uasset" 128
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/Pickup/BP_PU_Wheel_Rear.uasset" 129
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Diffuse.uasset" 130
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_EMM.uasset" 131
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Normal.uasset" 132
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Materials/Pickup/M_Pickup_Body.uasset" 133
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Interior_Diffuse.uasset" 134
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Interior_Normal.uasset" 135
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Interior_OPC.uasset" 136
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Interior_ORM.uasset" 137
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Materials/Pickup/M_Pickup_Interior.uasset" 138
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Diffuse_1.uasset" 139
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_Normal_1.uasset" 140
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_ORM_1.uasset" 141
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Materials/Pickup/M_Pickup_Under.uasset" 142
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Pickup/TX_Pickup_ORM_2.uasset" 143
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Materials/Pickup/Mi_Pickup_Glass.uasset" 144
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Skeletons/SK_Pickup_PhysicsAsset.uasset" 145
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Skeletons/SK_Pickup.uasset" 146
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup.uasset" 147
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/Pickup/BP_Pickup_Gamemode.uasset" 148
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/SportsCar/AB_SportsCar.uasset" 149
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/SUV/AB_SUV.uasset" 150
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/SportsCar/DA_SC_TireConfig.uasset" 151
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Front.uasset" 152
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Wheel_Rear.uasset" 153
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Exterior_Diffuse.uasset" 154
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SportsCar/TX_Sportscar_Exterior_Emissive.uasset" 155
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Exterior_Normal.uasset" 156
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Exterior_ORM.uasset" 157
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Body.uasset" 158
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Interior_Diffuse.uasset" 159
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Interior_Normal.uasset" 160
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Interior_ORM.uasset" 161
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Interior.uasset" 162
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Underside_Diffuse.uasset" 163
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Underside_Normal.uasset" 164
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Underside_ORM.uasset" 165
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Materials/SportsCar/M_SportsCar_Under.uasset" 166
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Glass_Diffuse.uasset" 167
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Glass_Normal.uasset" 168
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SportsCar/TX_SportsCar_Glass_ORM.uasset" 169
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Materials/SportsCar/Mi_Glass_SportsCar.uasset" 170
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Skeletons/SK_SportsCar_PhysicsAsset.uasset" 171
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Skeletons/SK_SportsCar.uasset" 172
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/SportsCar/BP_SportsCar.uasset" 173
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/SportsCar/BP_SC_Gamemode.uasset" 174
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Materials/Masters/M_Blank.uasset" 175
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Skeletons/SK_Truck_Chassis_PhysicsAsset.uasset" 176
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Skeletons/SK_Truck_Chassis.uasset" 177
+"../../../Engine/Content/Animation/DefaultAnimCurveCompressionSettings.uasset" 178
+"../../../Engine/Content/ArtTools/RenderToTexture/Meshes/S_1_Unit_Plane.uasset" 179
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 180
+"../../../Engine/Content/BasicShapes/Cone.uasset" 181
+"../../../Engine/Content/BasicShapes/Plane.uasset" 182
+"../../../Engine/Content/EditorLandscapeResources/DataLayer.uasset" 183
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Toggle.uasset" 184
+"../../../Engine/Content/EditorMaterials/MAT_Groups_Visibility.uasset" 185
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 186
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 187
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_ColorTrack.uasset" 188
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Anim.uasset" 189
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_AudioMaster.uasset" 190
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Director.uasset" 191
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Event.uasset" 192
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Fade.uasset" 193
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Float.uasset" 194
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Move.uasset" 195
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Slomo.uasset" 196
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Sound.uasset" 197
+"../../../Engine/Content/EditorMaterials/MatineeGroups/MAT_Groups_Vector.uasset" 198
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 199
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 200
+"../../../Engine/Content/EditorMaterials/Camera/CineMat.uasset" 201
+"../../../Engine/Content/EditorMaterials/Camera/MI_CineMat_Rig.uasset" 202
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Arm.uasset" 203
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Base.uasset" 204
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Body.uasset" 205
+"../../../Engine/Content/EditorMeshes/Camera/SM_CraneRig_Mount.uasset" 206
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Mount.uasset" 207
+"../../../Engine/Content/EditorMeshes/Camera/SM_RailRig_Track.uasset" 208
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 209
+"../../../Engine/Content/EditorResources/EmptyActor.uasset" 210
+"../../../Engine/Content/EditorResources/S_Actor.uasset" 211
+"../../../Engine/Content/EditorResources/S_Note.uasset" 212
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 213
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 214
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent.uasset" 215
+"../../../Engine/Content/EditorResources/AudioIcons/S_AudioComponent_AutoActivate.uasset" 216
+"../../../Engine/Content/EditorResources/LightIcons/S_LightError.uasset" 217
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 218
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 219
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed.uasset" 220
+"../../../Engine/Content/EditorSounds/Notifications/CompileFailed_Cue.uasset" 221
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess.uasset" 222
+"../../../Engine/Content/EditorSounds/Notifications/CompileStart_Cue.uasset" 223
+"../../../Engine/Content/EditorSounds/Notifications/CompileSuccess_Cue.uasset" 224
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 225
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 226
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 227
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleTranslucent.uasset" 228
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 229
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 230
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 231
+"../../../Engine/Content/EngineDebugMaterials/WireframeMaterial.uasset" 232
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 233
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 234
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 235
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 236
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 237
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 238
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 239
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 240
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 241
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 242
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 243
+"../../../Engine/Content/EngineMaterials/BaseFlattenMaterial.uasset" 244
+"../../../Engine/Content/EngineMaterials/BlueNoise.uasset" 245
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 246
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 247
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 248
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 249
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 250
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 251
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 252
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 253
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 254
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 255
+"../../../Engine/Content/EngineMaterials/DefaultVirtualTextureMaterial.uasset" 256
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 257
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 258
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 259
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 260
+"../../../Engine/Content/EngineMaterials/Good64x64TilingNoiseHighFreq.uasset" 261
+"../../../Engine/Content/EngineMaterials/HairDefaultMaterial.uasset" 262
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 263
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 264
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 265
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uasset" 266
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 267
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 268
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 269
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 270
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 271
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 272
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 273
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 274
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 275
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 276
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 277
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 278
+"../../../Engine/Content/EngineMeshes/Cylinder.uasset" 279
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 280
+"../../../Engine/Content/EngineResources/Black.uasset" 281
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 282
+"../../../Engine/Content/EngineResources/DefaultTextureCube.uasset" 283
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 284
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 285
+"../../../Engine/Content/EngineResources/GradientTexture0.uasset" 286
+"../../../Engine/Content/EngineSounds/Master.uasset" 287
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 288
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 289
+"../../../Engine/Content/Maps/Templates/Thumbnails/Default.uasset" 290
+"../../../Engine/Content/Maps/Templates/Thumbnails/TimeOfDay.uasset" 291
+"../../../Engine/Content/Maps/Templates/Thumbnails/VR-Basic.uasset" 292
+"../../../Engine/Content/MobileResources/T_MobileControls_texture.uasset" 293
+"../../../Engine/Content/MobileResources/T_MobileMenu2.uasset" 294
+"../../../Engine/Content/MobileResources/HUD/AnalogHat.uasset" 295
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 296
+"../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 297
+"../../../Engine/Content/MobileResources/HUD/DefaultVirtualJoysticks.uasset" 298
+"../../../Engine/Content/MobileResources/HUD/LeftVirtualJoystickOnly.uasset" 299
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_off.uasset" 300
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton1_on.uasset" 301
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_off.uasset" 302
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton2_on.uasset" 303
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButton3.uasset" 304
+"../../../Engine/Content/MobileResources/HUD/MobileHUDButtonFire.uasset" 305
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad.uasset" 306
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad2.uasset" 307
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionPad3.uasset" 308
+"../../../Engine/Content/MobileResources/HUD/MobileHUDDirectionStick.uasset" 309
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickInner.uasset" 310
+"../../../Engine/Content/MobileResources/HUD/T_Castle_ThumbstickOutter.uasset" 311
+"../../../Engine/Content/Tutorial/ContentIntroCurve.uasset" 312
+"../../../Engine/Content/Tutorial/Basics/LevelEditorAttract.uasset" 313
+"../../../Engine/Content/VREditor/LaserPointer/VR_LaserPower_01.uasset" 314
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial.uasset" 315
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial.uasset" 316
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxCorner.uasset" 317
+"../../../Engine/Content/VREditor/TransformGizmo/BoundingBoxEdge.uasset" 318
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 319
+"../../../Engine/Content/VREditor/TransformGizmo/Main.uasset" 320
+"../../../Engine/Content/VREditor/TransformGizmo/Xray.uasset" 321
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Key.uasset" 322
+"../../../Engine/Content/VREditor/TransformGizmo/SM_Sequencer_Node.uasset" 323
+"../../Plugins/2D/Paper2D/Content/PlaceholderTextures/DummySpriteTexture.uasset" 324
+"../../Plugins/2D/Paper2D/Content/DummySprite.uasset" 325
+"../../Plugins/2D/Paper2D/Content/DefaultPaperTerrainMaterial.uasset" 326
+"../../Plugins/2D/Paper2D/Content/DummySpriteTexture.uasset" 327
+"../../Plugins/2D/Paper2D/Content/DefaultSpriteMaterial.uasset" 328
+"../../Plugins/2D/Paper2D/Content/MaskedUnlitSpriteMaterial.uasset" 329
+"../../Plugins/2D/Paper2D/Content/OpaqueUnlitSpriteMaterial.uasset" 330
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 331
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 332
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 333
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset" 334
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset" 335
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset" 336
+"../../Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset" 337
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" 338
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" 339
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" 340
+"../../../Engine/Content/MapTemplates/Sky/DaylightAmbientCubemap.uasset" 341
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" 342
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" 343
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" 344
+"../../../Engine/Content/EditorMaterials/Thumbnails/SkySphereMaterial.uasset" 345
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/Skybox.uasset" 346
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" 347
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" 348
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/BP_LightStudio.uasset" 349
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" 350
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_AssetPlatform.uasset" 351
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ChromeBall.uasset" 352
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoat.uasset" 353
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ClearCoatBlack.uasset" 354
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/Color_checker.uasset" 355
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_ColorGrid.uasset" 356
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/M_GreyBall.uasset" 357
+"../../../Engine/Content/EditorMeshes/ColorCalibrator/SM_ColorCalibrator.uasset" 358
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" 359
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Maps/Advanced_Lighting.umap" 360
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 361
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 362
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 363
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 364
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 365
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 366
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 367
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 368
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 369
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 370
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Meshes/SM_SportsCar.uasset" 371
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/GameContent/ShipCar_BP.uasset" 372
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/GameContent/MyFirstUE_Gamemode_BP.uasset" 373
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" 374
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" 375
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" 376
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" 377
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_MacroVariation.uasset" 378
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" 379
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" 380
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" 381
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" 382
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Ground_Gravel.uasset" 383
+"../../../Engine/Content/BasicShapes/Cube.uasset" 384
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Maps/Minimal_Default.umap" 385
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Fire01_Cue.uasset" 386
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Fire_SubUV.uasset" 387
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" 388
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" 389
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Water_N.uasset" 390
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" 391
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" 392
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/P_Fire.uasset" 393
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" 394
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Smoke01_Cue.uasset" 395
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/P_Smoke.uasset" 396
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" 397
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" 398
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Spark_Core.uasset" 399
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_Spark.uasset" 400
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/P_Sparks.uasset" 401
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" 402
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Steam01_Cue.uasset" 403
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/P_Steam_Lit.uasset" 404
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" 405
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Lamp_M.uasset" 406
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Lamp_N.uasset" 407
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Lamp.uasset" 408
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" 409
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" 410
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Lamp_Wall.uasset" 411
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" 412
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" 413
+"../../../Engine/Content/Functions/Engine_MaterialFunctions03/Procedurals/ComputeFilterWidth.uasset" 414
+"../../../Engine/Content/EngineMaterials/AntiAliasedTextMaterialTranslucent.uasset" 415
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" 416
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" 417
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" 418
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" 419
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" 420
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" 421
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" 422
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" 423
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" 424
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" 425
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" 426
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" 427
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" 428
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" 429
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" 430
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" 431
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" 432
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" 433
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" 434
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" 435
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" 436
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" 437
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" 438
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" 439
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Gradinet_01.uasset" 440
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" 441
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" 442
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" 443
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" 444
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" 445
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" 446
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" 447
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" 448
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Concrete_Grime.uasset" 449
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" 450
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" 451
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Concrete_Panels.uasset" 452
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" 453
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" 454
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Concrete_Poured.uasset" 455
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" 456
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" 457
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" 458
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" 459
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" 460
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" 461
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" 462
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Ground_Grass.uasset" 463
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_ground_Moss_D.uasset" 464
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" 465
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Ground_Moss.uasset" 466
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" 467
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" 468
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" 469
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" 470
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Chrome.uasset" 471
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" 472
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Copper.uasset" 473
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" 474
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Gold.uasset" 475
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" 476
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Rust.uasset" 477
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" 478
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" 479
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Metal_Steel.uasset" 480
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" 481
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Rock_Basalt.uasset" 482
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" 483
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" 484
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" 485
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" 486
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" 487
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" 488
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Rock_Slate.uasset" 489
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" 490
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Single_Tile_N.uasset" 491
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" 492
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" 493
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" 494
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" 495
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" 496
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" 497
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" 498
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" 499
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" 500
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Tech_Panel.uasset" 501
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Water_Lake.uasset" 502
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Water_M.uasset" 503
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Water_Ocean.uasset" 504
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" 505
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" 506
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" 507
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" 508
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Opacity/AlphaOffset.uasset" 509
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" 510
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" 511
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" 512
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Wood_Oak.uasset" 513
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" 514
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" 515
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Wood_Pine.uasset" 516
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" 517
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" 518
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Materials/M_Wood_Walnut.uasset" 519
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Floor_400x400.uasset" 520
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_400x200.uasset" 521
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" 522
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" 523
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Collapse_Cue.uasset" 524
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Starter_Background_Cue.uasset" 525
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Audio/Starter_Music_Cue.uasset" 526
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" 527
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" 528
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Particles/P_Ambient_Dust.uasset" 529
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/MaterialSphere.uasset" 530
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Chair.uasset" 531
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Frame_M.uasset" 532
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Frame_N.uasset" 533
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Frame.uasset" 534
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_CornerFrame.uasset" 535
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_DoorFrame.uasset" 536
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_GlassWindow.uasset" 537
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_PillarFrame.uasset" 538
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_PillarFrame300.uasset" 539
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Statue_M.uasset" 540
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_Statue_N.uasset" 541
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_Statue.uasset" 542
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" 543
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_Statue.uasset" 544
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_TableRound_M.uasset" 545
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Textures/T_TableRound_N.uasset" 546
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/Materials/M_TableRound.uasset" 547
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_TableRound.uasset" 548
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Props/SM_WindowFrame.uasset" 549
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Cube.uasset" 550
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" 551
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Shapes/Shape_Sphere.uasset" 552
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/StarterContent/Maps/StarterMap.umap" 553
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/SUV/DA_SUV_TireConfig.uasset" 554
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Front.uasset" 555
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Wheel_Rear.uasset" 556
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SUV/TX_SUV_Main_Diffuse.uasset" 557
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SUV/TX_SUV_Main_Emissive.uasset" 558
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SUV/TX_SUV_Main_Normal.uasset" 559
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SUV/TX_SUV_Main_ORM.uasset" 560
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Materials/SUV/M_SUV_Body.uasset" 561
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SUV/TX_SUV_Details_Diffuse.uasset" 562
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SUV/TX_SUV_Details_Normal.uasset" 563
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SUV/TX_SUV_Details_ORM.uasset" 564
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Materials/SUV/M_SUV_Interior.uasset" 565
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SUV/TX_SUV_Undercar_Diffuse.uasset" 566
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SUV/TX_SUV_Undercar_Normal.uasset" 567
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SUV/TX_SUV_Undercar_ORM.uasset" 568
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Materials/SUV/M_SUV_Under.uasset" 569
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SUV/TX_SUV_Glass_BaseColor.uasset" 570
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SUV/TX_SUV_Glass_Normal.uasset" 571
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/SUV/TX_SUV_Glass_ORM.uasset" 572
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Materials/SUV/Mi_SUV_Glass.uasset" 573
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Skeletons/SK_SUV_PhysicsAsset.uasset" 574
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Skeletons/SK_SUV.uasset" 575
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/SUV/BP_SUV.uasset" 576
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/SUV/BP_SUV_Gamemode.uasset" 577
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Maps/Playground_BuiltData.uasset" 578
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 579
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 580
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 581
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Hatchback/TX_Hatchback_Diffuse_0.uasset" 582
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Hatchback/TX_Hatchback_EMM_0.uasset" 583
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Hatchback/TX_Hatchback_Normal_0.uasset" 584
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Hatchback/TX_Hatchback_ORM_0.uasset" 585
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Body.uasset" 586
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Hatchback/TX_Hatchback_Diffuse_1.uasset" 587
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Hatchback/TX_Hatchback_Normal_1.uasset" 588
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Hatchback/TX_Hatchback_ORM_1.uasset" 589
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Interior.uasset" 590
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Hatchback/TX_Hatchback_Diffuse.uasset" 591
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Hatchback/TX_Hatchback_Normal.uasset" 592
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Hatchback/TX_Hatchback_ORM.uasset" 593
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Materials/Hatchback/M_Hatchback_Under.uasset" 594
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Hatchback/TX_Hatchback_Diffuse_2.uasset" 595
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Hatchback/TX_Hatchback_Normal_2.uasset" 596
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Hatchback/TX_Hatchback_OPC_2.uasset" 597
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/Hatchback/TX_Hatchback_ORM_2.uasset" 598
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Materials/Hatchback/Mi_Hatchback_Glass.uasset" 599
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Meshes/SM_Hatchback.uasset" 600
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Meshes/SM_Pickup.uasset" 601
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Meshes/SM_SUV.uasset" 602
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Meshes/SM_Truck_Box.uasset" 603
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/TX_LUT_Adjustments.uasset" 604
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Maps/Playground.umap" 605
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/Hatchback/AB_Hatchback.uasset" 606
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_FrontWheel.uasset" 607
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/Hatchback/BP_HB_RearWheel.uasset" 608
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Skeletons/SK_Hatchback_PhysicsAsset.uasset" 609
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Skeletons/SK_Hatchback.uasset" 610
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback.uasset" 611
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Blueprints/Hatchback/BP_Hatchback_Gamemode.uasset" 612
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Maps/Presentation_BuiltData.uasset" 613
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/TX_Asphalt_Dry_Diffuse.uasset" 614
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/TX_Asphalt_Dry_Normal.uasset" 615
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/TX_Asphalt_Wet_RGB.uasset" 616
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Materials/Masters/M_Floor.uasset" 617
+"../../../Engine/Content/EditorMeshes/PlanarReflectionPlane.uasset" 618
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Meshes/SM_Floorplane.uasset" 619
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Textures/TX_StudioLighting.uasset" 620
+"../../../../../pesca/Documents/Unreal Projects/MyProject2/Content/VehicleVarietyPack/Maps/Presentation.umap" 621
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 622
+"../../../Engine/Content/Maps/Entry.umap" 623
